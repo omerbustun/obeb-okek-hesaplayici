@@ -1,1 +1,1 @@
-# OBEB_OKEK_Hesaplayici
+# OBEB OKEK Hesaplayıcı
